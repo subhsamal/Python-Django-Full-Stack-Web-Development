@@ -1,0 +1,23 @@
+.container{
+  margin-top: 13px;
+}
+
+table{
+ margin: auto;
+ background-color: #f4c242;
+}
+
+td{
+  height: 150px;
+  width: 150px;
+  border: 8px solid black;
+  font-size: 100px;
+  text-align: center;
+}
+h2, h3{
+  text-align: center;
+}
+
+#refer{
+  align-self: center;
+}
